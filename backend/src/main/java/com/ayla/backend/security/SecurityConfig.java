@@ -1,0 +1,1 @@
+package com.ayla.backend.security; class SecurityConfig{}

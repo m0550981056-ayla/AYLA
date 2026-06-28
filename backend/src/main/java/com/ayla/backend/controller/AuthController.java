@@ -1,0 +1,1 @@
+package com.ayla.backend.controller; class AuthController{}
