@@ -1,1 +1,0 @@
-CREATE TABLE organizations(id BIGSERIAL PRIMARY KEY,name VARCHAR(255));
